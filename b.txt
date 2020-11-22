@@ -2,9 +2,3 @@ aaaaa
 bbbbb
 
 ddddd
-ccccc
-44444
-55555
-66666
-aaaaa
-eeeee
